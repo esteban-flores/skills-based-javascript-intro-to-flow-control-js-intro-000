@@ -53,9 +53,9 @@ case age === 16:
         return "You are a teenager"
 case age === 17:
           return "You are a teenager"
-          case age === 18:
+case age === 18:
             return "You are a teenager"
-            case age === 19:
+case age === 19:
               return "You are a teenager"
 default:
   return "You have an age"
