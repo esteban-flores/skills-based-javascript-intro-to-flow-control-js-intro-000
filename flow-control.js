@@ -43,7 +43,7 @@ function switchAge(age) {
   }
 */
 switch(age){
-case:
+case age === 13:
 
 }
 
