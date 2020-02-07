@@ -42,8 +42,8 @@ function switchAge(age) {
     return "You have an age"
   }
 */
-switch(){
-
+switch(age){
+case:
 
 }
 
